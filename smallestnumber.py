@@ -1,5 +1,5 @@
 # Find the smallest number in a list.
-a = float(input("Enter the first number: "))
+a = float(input("Enter the first number: "))   # float for decimal support
 b = float(input("Enter the second number: "))
 c = float(input("Enter the third number: "))
 

@@ -3,7 +3,7 @@ import getpass
 username = input("Enter the username: ")
 password = getpass.getpass("Enter the password: ")
 # Simulate a login system
-if username == "admin" and password == "secret":
+if username == "admin mae hu" and password == "secret password hai sir":
     print("Login successful!")
 else:
     print("Login failed! Incorrect username or password.")  
@@ -13,12 +13,12 @@ else:
 
 # Example: 
 # This code is for correct login credentials:
-# Enter the username: admin
+# Enter the username: admin mae hu
 # Enter the password:
 # Login successful!
 
 # This code is for incorrect login credentials:
-# Enter the username: admin
+# Enter the username: admin mae hu
 # Enter the password:
 # Login failed! Incorrect username or password.
 

@@ -13,7 +13,20 @@ for i in range(3):
 
 else:
     print("Too many attempts. Access denied.")
+
 # This code allows a user to attempt to log in up to three times.
+
+# Sample Run:
+# Enter your username: admin
+# Enter your password: 
+# Login successful!
+
+# OR
+
+# Login failed. Please try again.
+# Login failed. Please try again.
+# Too many attempts. Access denied.
+
 
         
 
